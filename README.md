@@ -12,9 +12,11 @@
 
 [![CI](https://github.com/OWASP/www-project-agent-memory-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/OWASP/www-project-agent-memory-guard/actions/workflows/ci.yml)
 [![PyPI version](https://img.shields.io/pypi/v/agent-memory-guard.svg)](https://pypi.org/project/agent-memory-guard/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/agent-memory-guard.svg)](https://pepy.tech/project/agent-memory-guard)
 [![Python versions](https://img.shields.io/pypi/pyversions/agent-memory-guard.svg)](https://pypi.org/project/agent-memory-guard/)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.md)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/OWASP/www-project-agent-memory-guard/blob/main/LICENSE.md)
 [![OWASP Incubator](https://img.shields.io/badge/OWASP-Incubator-yellow.svg)](https://owasp.org/www-project-agent-memory-guard/)
+[![OpenSSF Best Practices](https://img.shields.io/badge/OpenSSF-Best%20Practices-lightgrey.svg)](https://www.bestpractices.dev/)
 
 > **⭐ If this project helps you secure your AI agents, [star it on GitHub](https://github.com/OWASP/www-project-agent-memory-guard/stargazers) — it helps others find the project.**
 > **🔗 Share it:** [Tweet](https://twitter.com/intent/tweet?text=OWASP%20Agent%20Memory%20Guard%20%E2%80%94%20runtime%20defense%20against%20AI%20agent%20memory%20poisoning%20(ASI06)&url=https://github.com/OWASP/www-project-agent-memory-guard) · [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/OWASP/www-project-agent-memory-guard) · [Hacker News](https://news.ycombinator.com/submitlink?u=https://github.com/OWASP/www-project-agent-memory-guard&t=OWASP%20Agent%20Memory%20Guard)
@@ -267,14 +269,17 @@ See the [benchmark results above](#benchmark-results) for category-level breakdo
 
 ## Community & adoption
 
-Agent Memory Guard is an OWASP Incubator project. It is maintained in the open
-and used by builders working on agent security.
+- **OWASP Slack:** [`#project-agent-memory-guard`](https://owasp.slack.com/) — *channel pending creation; will be linked here when live*
+- **GitHub Discussions:** https://github.com/OWASP/www-project-agent-memory-guard/discussions
+- **OWASP project page:** https://owasp.org/www-project-agent-memory-guard/
 
 - **Star the repo** if it's useful — [github.com/OWASP/www-project-agent-memory-guard](https://github.com/OWASP/www-project-agent-memory-guard) — visibility helps OWASP fund future work.
 - **Using it in production?** Open an issue or PR adding your team to an
   `ADOPTERS.md` (coming soon). We highlight adopters in release notes.
 - **Found a gap?** File an issue using one of the [issue templates](.github/ISSUE_TEMPLATE) — bug, feature, docs, or adapter request.
 - **Talking about it?** Tag [`#AgentMemoryGuard`](https://twitter.com/search?q=%23AgentMemoryGuard) or link this repo so others can find it.
+
+Join the OWASP Slack workspace at https://owasp.org/slack/invite if you're not a member yet.
 
 ## Contributing
 
